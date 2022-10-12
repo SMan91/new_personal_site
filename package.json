@@ -1,7 +1,6 @@
 {
   "name": "personal_page",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "client:dev": "react-scripts start"
@@ -30,5 +29,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
+
 }
