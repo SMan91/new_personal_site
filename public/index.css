@@ -1,0 +1,22 @@
+/* .col {
+  padding: 1rem;
+  background-color: aqua;
+  border: 2px solid #fff;
+  color: #fff;
+} */
+/* 
+[class*="col"] {
+  padding: 1rem;
+  background-color: #33b5e5;
+  border: 2px solid #fff;
+  color: #fff;
+} */
+/* class*="col"{
+
+} */
+
+.flag {
+  /* height: 500px; */
+  width: 600px;
+  /* margin-top: 6rem; */
+}
